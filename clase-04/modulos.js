@@ -5,4 +5,8 @@ login =(user,pass)=>{
 
 
 module.exports = login
-
+export default login
+ export{
+    login,
+    LIKES
+ }
